@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-bower",
+  "version": "0.0.1",
+  "authors": [
+    "monkey <monkey@very.ws>"
+  ],
+  "description": "monkey demo",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
